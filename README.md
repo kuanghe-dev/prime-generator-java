@@ -7,3 +7,7 @@ The code uses the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of
 ## Starting Point
 
 The ``main`` branch has the original code and unit tests, as the starting point.
+
+## Refactored Code
+
+Refactored code can be found in the ``refactor`` branch.
